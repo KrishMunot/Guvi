@@ -1,3 +1,7 @@
+/*
+* 12 - Check whether a number is palindrome or not
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
