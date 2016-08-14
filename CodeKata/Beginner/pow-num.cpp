@@ -1,3 +1,7 @@
+/*
+* 11 - Calculate the power of a number.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
