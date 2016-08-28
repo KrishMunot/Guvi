@@ -1,6 +1,6 @@
 /*
 * 17 - Check armstrong number
-/
+*/
 
 #include <iostream>
 using namespace std;
